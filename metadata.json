@@ -1,0 +1,6 @@
+{
+  "name": "M/S OSMAN TRADING - Opex Lighting, Cables & Doors Factory",
+  "description": "Official landing page and dynamic product catalogue for M/S Osman Trading (Opex Lighting Factory), featuring energy-efficient LED lights, cables, fans, and security doors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
